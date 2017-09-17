@@ -1,3 +1,3 @@
 # zuul-fallback
 
-In this example fallback will execute when anyone or both consumers is down.
+In this example fallback will execute when any one of the consumers or both consumers are down.
